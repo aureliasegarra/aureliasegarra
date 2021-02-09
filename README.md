@@ -2,9 +2,9 @@
 
 ![Cover](https://github.com/aureliasegarra/aureliasegarra/blob/main/img/cover.png)
 
-## :mortar_board: I’m front-end developer junior
+## :mortar_board:  I’m Front-end Developer Junior
 
-## :gear: Languages & Tools 
+## :gear:  Languages & Tools 
 
 - Javascript | HTML | CSS 
 - React | Redux 
@@ -13,7 +13,7 @@
 - NodeJs 
 - PostgreSQL
 
-## :mailbox_with_mail: Get in touch 
+## :mailbox_with_mail:  Get in touch 
 
 <p>
  <a href="https://github.com/aureliasegarra/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="icon" height="40" style="vertical-align:top; margin:4px"> </a>
