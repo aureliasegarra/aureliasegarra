@@ -4,10 +4,10 @@
 
 ## :mortar_board:  I’m Front-end Developer Junior
 
-* I'm currently developing React applications
-* I'm currently learning React Native
-* I'm looking to collaborate on open-source projects
-* Ask me about anything <a href="mailto:av.segarra@gmail.com">here</a>
+* :building_construction: I'm currently developing React applications
+* :seedling: I'm currently learning React Native
+* :handshake: I'm looking to collaborate on open-source projects
+* :speech_balloon: A question or a comment ? <a href="mailto:av.segarra@gmail.com">here</a>
 
 ## :gear:  Languages & Tools 
 
