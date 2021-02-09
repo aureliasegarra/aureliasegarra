@@ -16,9 +16,9 @@
 ## :mailbox_with_mail:  Get in touch 
 
 <p>
- <a href="https://github.com/aureliasegarra/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="icon" height="40" style="vertical-align:top; margin:4px"> </a>
- <a href="https://linkedin.com/in/aureliasegarra" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="icon" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:av.segarra@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="icon" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://twitter.com/SegarraAurelia/" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="icon" height="40" style="vertical-align:top; margin:4px"> </a>
+ <a href="https://linkedin.com/in/aureliasegarra" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="icon" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:av.segarra@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail--v1.png" alt="icon" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
 
