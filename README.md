@@ -2,14 +2,14 @@
 
 ![Cover](https://github.com/aureliasegarra/aureliasegarra/blob/main/img/cover.png)
 
-## :mortar_board:  I’m Front-end Developer Junior
+## :mortar_board: I’m Front-end Developer Junior
 
 * :building_construction: I'm currently developing React applications
 * :seedling: I'm currently learning React Native
 * :handshake: I'm looking for collaboration on open-source projects
 * :speech_balloon: A question or a comment ? <a href="mailto:av.segarra@gmail.com">here</a>
 
-## :gear:  Languages & Tools 
+## :gear: Languages & Tools 
 
 - Javascript | HTML | CSS 
 - React | Redux 
@@ -18,7 +18,7 @@
 - NodeJs 
 - PostgreSQL
 
-## :mailbox_with_mail:  Get in touch 
+## :mailbox_with_mail: Get in touch 
 
 <p>
  <a href="https://twitter.com/SegarraAurelia/" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="icon" height="40" style="vertical-align:top; margin:4px"> </a>
