@@ -4,7 +4,7 @@
 
 ## I’m front-end developer junior
 
-const Aurelia = {
+# const Aurelia = {
 	languages : [‘Javascript’, ‘React’, ‘HTML’, ‘CSS’],
         tools: [‘Redux’, ’SCSS’, ‘Figma’, ‘Photoshop’],
         level:  ‘junior’,
