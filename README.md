@@ -4,6 +4,17 @@
 
 ## I’m front-end developer junior
 
+## Languages & Tools :gear:
+
+- Javascript | HTML | CSS 
+- React | Redux 
+- Figma | Photoshop
+- Git | Github
+- NodeJs 
+- PostgreSQL
+
+
+
 
 
 
