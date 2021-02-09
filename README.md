@@ -4,6 +4,11 @@
 
 ## :mortar_board:  I’m Front-end Developer Junior
 
+* I'm currently developing React applications
+* I'm currently learning React Native
+* I'm looking to collaborate on open-source projects
+* Ask me about anything <a href="mailto:av.segarra@gmail.com">here</a>
+
 ## :gear:  Languages & Tools 
 
 - Javascript | HTML | CSS 
