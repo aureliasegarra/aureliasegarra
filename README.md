@@ -29,6 +29,8 @@
 
 ![Aurelia's GitHub stats](https://github-readme-stats.vercel.app/api?username=aureliasegarra&theme=tokyonight)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aureliasegarra&theme=tokyonight&layout=compact)](https://github.com/aureliasegarra/github-readme-stats)
+
 
 
 
