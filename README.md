@@ -11,12 +11,12 @@
 
 ## :gear: Languages & Tools 
 
-- Javascript | HTML | CSS 
-- React | Redux 
-- Figma | Photoshop
-- Git | Github
-- NodeJs 
-- PostgreSQL
+- <img src="https://img.icons8.com/color/48/000000/html-5.png"/>  <img src="https://img.icons8.com/color/48/000000/css3.png"/>  <img src="https://img.icons8.com/color/48/000000/sass.png"/>
+- <img src="https://img.icons8.com/color/48/000000/javascript.png"/>   <img src="https://img.icons8.com/officel/16/000000/react.png"/>    <img src="https://img.icons8.com/color/48/000000/redux.png"/>
+- <img src="https://img.icons8.com/windows/32/000000/figma.png"/>  <img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png"/>
+- <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png"/>  <img src="https://img.icons8.com/windows/32/000000/git-squared.png"/>
+- <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+- <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
 
 ## :mailbox_with_mail: Get in touch 
 
