@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋, I’m Aurelia !
 
-<!--
-**aureliasegarra/aureliasegarra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Cover](https://github.com/aureliasegarra/aureliasegarra/blob/main/img/cover.jpg)
 
-Here are some ideas to get you started:
+## I’m front-end developer junior
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+const Aurelia = {
+	languages : [‘Javascript’, ‘React’, ‘HTML’, ‘CSS’],
+        tools: [‘Redux’, ’SCSS’, ‘Figma’, ‘Photoshop’],
+        level:  ‘junior’,
+	challenge: {
+		currently : ‘I m working on personal projects focused on deep learning React’,
+		next: ‘Learn Typescript’,
+	}
+};
+
+
