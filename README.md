@@ -6,7 +6,7 @@
 
 * :building_construction: I'm currently developing React applications
 * :seedling: I'm currently learning React Native
-* :handshake: I'm looking to collaborate on open-source projects
+* :handshake: I'm looking for collaboration on open-source projects
 * :speech_balloon: A question or a comment ? <a href="mailto:av.segarra@gmail.com">here</a>
 
 ## :gear:  Languages & Tools 
