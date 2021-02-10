@@ -11,11 +11,9 @@
 
 ## :gear: Languages & Tools 
 
-- <img src="https://img.icons8.com/color/48/000000/javascript.png"/>  <img src="https://img.icons8.com/color/48/000000/html-5.png"/>  <img src="https://img.icons8.com/color/48/000000/css3.png"/>  <img src="https://img.icons8.com/color/48/000000/sass.png"/>
-- <img src="https://img.icons8.com/color/48/000000/react-native.png"/>   <img src="https://img.icons8.com/color/48/000000/redux.png"/>
-- <img src="https://img.icons8.com/windows/48/000000/figma.png"/>  <img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png"/>
-- <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png"/>   <img src="https://img.icons8.com/windows/48/000000/git-squared.png"/>
-- <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>  <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
+- <img src="https://img.icons8.com/color/25/000000/javascript.png"/> <img src="https://img.icons8.com/color/25/000000/react-native.png"/> <img src="https://img.icons8.com/color/25/000000/redux.png"/>
+- <img src="https://img.icons8.com/windows/25/000000/figma.png"/>  <img src="https://img.icons8.com/color/25/000000/adobe-photoshop.png"/>
+
 
 ## :mailbox_with_mail: Get in touch 
 
@@ -25,6 +23,7 @@
  <a href="mailto:av.segarra@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail--v1.png" alt="icon" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
+## Github
 
 ![Aurelia's GitHub stats](https://github-readme-stats.vercel.app/api?username=aureliasegarra&theme=tokyonight)
 
