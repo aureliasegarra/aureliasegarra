@@ -2,7 +2,7 @@
 
 ![Cover](https://github.com/aureliasegarra/aureliasegarra/blob/main/img/cover.png)
 
-## :mortar_board: I’m Front-end Developer Junior
+## I’m Front-end Developer Junior
 
 * :building_construction: I'm currently developing React applications
 * :seedling: I'm currently learning React Native
@@ -10,8 +10,8 @@
 * :speech_balloon: A question or a comment ? <a href="mailto:av.segarra@gmail.com">here</a>
 
 
-## :gear: Languages & Tools 
-<p align="left">
+## Languages & Tools 
+<p align="center">
   <a href="#">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/languages/js.svg" alt="example badge" style="vertical-align:top margin:6px 10px">
 </a> 
@@ -31,9 +31,9 @@
  
  
 
-## :sparkles: Where to find me  
+##  Where to find me  
 
-<p align="left">
+<p align="center">
  
  <a href="https://twitter.com/SegarraAurelia">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/social/twitter.svg" alt="example badge" style="vertical-align:top margin:6px 10px">
@@ -51,7 +51,7 @@
 
 
 
-## :bar_chart: Stats
+## Github Stats
 
 ![Aurelia's GitHub stats](https://github-readme-stats.vercel.app/api?username=aureliasegarra&theme=tokyonight&show_icons=true&hide=contribs)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aureliasegarra&theme=tokyonight&layout=compact)](https://github.com/aureliasegarra/github-readme-stats)
 
