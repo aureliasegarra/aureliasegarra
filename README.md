@@ -12,31 +12,40 @@
 ## :gear: Languages & Tools 
 <p align="left">
   <a href="#">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/languages/js.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/languages/js.svg" alt="example badge" style="vertical-align:top margin:6px 10px">
 </a> 
  <a href="#">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/frameworks/react.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/frameworks/react.svg" alt="example badge" style="vertical-align:top margin:6px 10px">
 </a> 
  
   <a href="#">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/languages/sass.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/languages/sass.svg" alt="example badge" style="vertical-align:top margin:6px 10px">
 </a> 
 
  <a href="#">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/frameworks/nodejs.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/frameworks/nodejs.svg" alt="example badge" style="vertical-align:top margin:6px 10px">
 </a> 
  
 </p>
  
 
-## :mailbox_with_mail: Get in touch 
+## :sparkles: Where to find me  
 
 <p align="left">
- <a href="https://twitter.com/SegarraAurelia/" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/fluent/25/000000/twitter.png" alt="icon" style="vertical-align:top; margin-right:6px"> </a>
- <a href="https://linkedin.com/in/aureliasegarra" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/fluent/25/000000/linkedin.png" alt="icon" style="vertical-align:top; margin-right:6px"></a>
- <a href="mailto:av.segarra@gmail.com"> <img src="https://img.icons8.com/fluent/25/000000/gmail--v1.png" alt="icon" style="vertical-align:top; margin-right:6px"></a>
-</p>
+ 
+ <a href="https://twitter.com/SegarraAurelia">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/social/twitter.svg" alt="example badge" style="vertical-align:top margin:6px 10px">
+</a> 
+ 
+  <a href="https://www.linkedin.com/in/aureliasegarra/">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/social/linkedin.svg" alt="example badge" style="vertical-align:top margin:6px 10px">
+</a> 
 
+ <a href="mailto:av.segarra@gmail.com">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/social/gmail.svg" alt="example badge" style="vertical-align:top margin:6px 10px">
+</a> 
+ 
+</p>
 
 ## <img src="https://img.icons8.com/fluent-systems-filled/24/000000/github-2.png"/> Github
 
