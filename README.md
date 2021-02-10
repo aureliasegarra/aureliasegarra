@@ -1,6 +1,6 @@
 ### Hi there 👋, I’m Aurelia !
 
-![Cover](https://github.com/aureliasegarra/aureliasegarra/blob/main/img/cover.png)
+![Cover](https://github.com/aureliasegarra/aureliasegarra/blob/main/img/cover1.png)
 
 ## I’m Front-end Developer Junior
 
