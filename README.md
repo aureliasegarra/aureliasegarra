@@ -51,9 +51,10 @@
 
 
 
-
+## Github Stats 
 <details>
-  <summary>## Github Stats </summary>
+  <summary>See more ? </summary>
+  
 ![Aurelia's GitHub stats](https://github-readme-stats.vercel.app/api?username=aureliasegarra&theme=tokyonight&show_icons=true&hide=contribs)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aureliasegarra&theme=tokyonight&layout=compact)](https://github.com/aureliasegarra/github-readme-stats)
 </details>
 
