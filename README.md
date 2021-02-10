@@ -17,11 +17,12 @@
 
 ## :mailbox_with_mail: Get in touch 
 
-<p>
- <a href="https://twitter.com/SegarraAurelia/" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/fluent/25/000000/twitter.png" alt="icon" style="vertical-align:top; margin:4px"> </a>
- <a href="https://linkedin.com/in/aureliasegarra" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/fluent/25/000000/linkedin.png" alt="icon" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:av.segarra@gmail.com"> <img src="https://img.icons8.com/fluent/25/000000/gmail--v1.png" alt="icon" style="vertical-align:top; margin:4px"></a>
+<p align="left">
+ <a href="https://twitter.com/SegarraAurelia/" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/fluent/25/000000/twitter.png" alt="icon" style="vertical-align:top; margin-right:6px"> </a>
+ <a href="https://linkedin.com/in/aureliasegarra" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/fluent/25/000000/linkedin.png" alt="icon" style="vertical-align:top; margin-right:6px"></a>
+ <a href="mailto:av.segarra@gmail.com"> <img src="https://img.icons8.com/fluent/25/000000/gmail--v1.png" alt="icon" style="vertical-align:top; margin-right:6px"></a>
 </p>
+
 
 ## <img src="https://img.icons8.com/fluent-systems-filled/24/000000/github-2.png"/> Github
 
