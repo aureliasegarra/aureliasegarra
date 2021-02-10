@@ -9,6 +9,7 @@
 * :handshake: I'm looking for collaboration on open-source projects
 * :speech_balloon: A question or a comment ? <a href="mailto:av.segarra@gmail.com">here</a>
 
+
 ## :gear: Languages & Tools 
 <p align="left">
   <a href="#">
@@ -27,6 +28,7 @@
 </a> 
  
 </p>
+ 
  
 
 ## :sparkles: Where to find me  
@@ -47,9 +49,11 @@
  
 </p>
 
+
+
 ## :bar_chart: Stats
 
-![Aurelia's GitHub stats](https://github-readme-stats.vercel.app/api?username=aureliasegarra&theme=tokyonight&show_icons=true&hide=contribs,issues)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aureliasegarra&theme=tokyonight&layout=compact)](https://github.com/aureliasegarra/github-readme-stats)
+![Aurelia's GitHub stats](https://github-readme-stats.vercel.app/api?username=aureliasegarra&theme=tokyonight&show_icons=true&hide=contribs)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aureliasegarra&theme=tokyonight&layout=compact)](https://github.com/aureliasegarra/github-readme-stats)
 
 
 
