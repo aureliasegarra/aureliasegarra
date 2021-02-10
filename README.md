@@ -10,10 +10,24 @@
 * :speech_balloon: A question or a comment ? <a href="mailto:av.segarra@gmail.com">here</a>
 
 ## :gear: Languages & Tools 
+<p align="left">
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/languages/js.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+</a> 
+ <a href="#">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/frameworks/react.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+</a> 
+ 
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/languages/sass.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+</a> 
 
-- <img style="box-shadow: -2px 21px 11px 42px rgba(0,0,0,0.75)" src="https://img.icons8.com/color/30/000000/javascript.png"/> <img src="https://img.icons8.com/color/30/000000/react-native.png"/> <img src="https://img.icons8.com/color/30/000000/redux.png"/>
-- <img src="https://img.icons8.com/windows/30/000000/figma.png"/>  <img src="https://img.icons8.com/color/30/000000/adobe-photoshop.png"/>
-
+ <a href="#">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/frameworks/nodejs.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+</a> 
+ 
+</p>
+ 
 
 ## :mailbox_with_mail: Get in touch 
 
