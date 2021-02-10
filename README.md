@@ -51,9 +51,9 @@
 
 
 
-## Github Stats 
+## Github 
 <details>
-  <summary>See more ? </summary>
+  <summary>:point_down: Github Stats :eyes: </summary>
   
 ![Aurelia's GitHub stats](https://github-readme-stats.vercel.app/api?username=aureliasegarra&theme=tokyonight&show_icons=true&hide=contribs)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aureliasegarra&theme=tokyonight&layout=compact)](https://github.com/aureliasegarra/github-readme-stats)
 </details>
