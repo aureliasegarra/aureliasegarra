@@ -11,7 +11,7 @@
 
 ## :gear: Languages & Tools 
 
-- <img src="https://img.icons8.com/color/30/000000/javascript.png"/> <img src="https://img.icons8.com/color/30/000000/react-native.png"/> <img src="https://img.icons8.com/color/30/000000/redux.png"/>
+- <img style="box-shadow: -2px 21px 11px 42px rgba(0,0,0,0.75)" src="https://img.icons8.com/color/30/000000/javascript.png"/> <img src="https://img.icons8.com/color/30/000000/react-native.png"/> <img src="https://img.icons8.com/color/30/000000/redux.png"/>
 - <img src="https://img.icons8.com/windows/30/000000/figma.png"/>  <img src="https://img.icons8.com/color/30/000000/adobe-photoshop.png"/>
 
 
