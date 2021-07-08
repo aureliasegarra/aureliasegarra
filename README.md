@@ -2,11 +2,11 @@
 
 ![Cover](https://github.com/aureliasegarra/aureliasegarra/blob/main/img/cover1.png)
 
-## I’m Front-end Developer Junior
+## I’m a junior Web Developer
 
 * :building_construction:   I'm currently developing React applications
-* :seedling:    I'm currently learning React Native
-* :handshake:   I'm looking for collaboration on open-source projects
+* :seedling:    I'm currently learning React Native and PHP
+* :briefcase:   I'm looking for a job in Bretagne 
 * :speech_balloon:    A question or a comment ? <a href="mailto:av.segarra@gmail.com">here</a>
 
 
