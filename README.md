@@ -5,7 +5,7 @@
 ## I’m a junior Web Developer
 
 * :building_construction:   I'm currently developing React applications
-* :seedling:    I'm currently learning React Native and PHP
+* :seedling:    I'm currently learning Vue.JS
 * :briefcase:   I'm looking for a job in Bretagne 
 * :speech_balloon:    A question or a comment ? <a href="mailto:av.segarra@gmail.com">here</a>
 
