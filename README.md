@@ -4,7 +4,7 @@
 
 ## I’m a junior FullStack Developer
 
-* :building_construction:   I'm currently developing Angular applications
+* :building_construction:   I'm currently developing Javascript applications (Angular, React)
 * :seedling:    I'm currently learning Spring Boot
 * :briefcase:   I'm looking for a job in Bretagne 
 * :speech_balloon:    A question or a comment ? <a href="mailto:aureliasegarra@protonmail.com">here</a>
