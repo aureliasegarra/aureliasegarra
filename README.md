@@ -4,10 +4,10 @@
 
 ## I’m a junior Web Developer
 
-* :building_construction:   I'm currently developing React applications
-* :seedling:    I'm currently learning Vue.JS
+* :building_construction:   I'm currently developing Angular applications
+* :seedling:    I'm currently learning Spring Boot
 * :briefcase:   I'm looking for a job in Bretagne 
-* :speech_balloon:    A question or a comment ? <a href="mailto:av.segarra@gmail.com">here</a>
+* :speech_balloon:    A question or a comment ? <a href="mailto:aureliasegarra@protonmail.com">here</a>
 
 
 ## Languages & Tools 
