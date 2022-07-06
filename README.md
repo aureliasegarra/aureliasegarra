@@ -2,7 +2,7 @@
 
 ![Cover](https://github.com/aureliasegarra/aureliasegarra/blob/main/img/cover1.png)
 
-## I’m a junior Web Developer
+## I’m a junior FullStack Developer
 
 * :building_construction:   I'm currently developing Angular applications
 * :seedling:    I'm currently learning Spring Boot
