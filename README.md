@@ -5,8 +5,8 @@
 ## I’m a junior FullStack Developer
 
 * :building_construction:   I'm currently developing Javascript applications (Angular, React, Vue)
-* :building_construction:   I'm currently finishing my bachelor in Computer Science 
-* :seedling:    I'm currently learning Software testing
+* :woman_student:   I'm currently finishing my bachelor in Computer Science 
+* :books:    I'm currently learning Software testing
 * :briefcase:   I am looking for a testing position starting in September 2023 
 * :speech_balloon:    A question or a comment ? <a href="mailto:aureliasegarra@protonmail.com">here</a>
 
