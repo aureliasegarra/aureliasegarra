@@ -4,9 +4,9 @@
 
 ## I’m a junior FullStack Developer
 
-* :building_construction:   I'm currently developing Javascript applications (Angular, React, Vue)
+* :building_construction:   I'm currently developing Javascript applications 
 * :woman_student:   I'm currently finishing my bachelor in Computer Science 
-* :books:    I'm currently learning Software testing
+* :books:    I'm currently learning Software testing (Automation - Cypress)
 * :briefcase:   I am looking for a testing position starting in September 2023 
 * :speech_balloon:    A question or a comment ? <a href="mailto:aureliasegarra@protonmail.com">here</a>
 
@@ -17,20 +17,9 @@
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/languages/js.svg" alt="example badge" style="vertical-align:top margin:6px 10px">
 </a> 
  <a href="#">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/frameworks/react.svg" alt="example badge" style="vertical-align:top margin:6px 10px">
-</a> 
- <a href="#">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/angular.svg" alt="example badge" style="vertical-align:top margin:6px 10px">
-</a> 
- <a href="#">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/java.svg" alt="example badge" style="vertical-align:top margin:6px 10px">
 </a> 
- 
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/languages/sass.svg" alt="example badge" style="vertical-align:top margin:6px 10px">
-</a> 
-
- <a href="#">
+<a href="#">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/frameworks/nodejs.svg" alt="example badge" style="vertical-align:top margin:6px 10px">
 </a> 
  
