@@ -1,6 +1,6 @@
 ### Hi there 👋, I’m Aurelia !
 
-![Cover](https://github.com/aureliasegarra/aureliasegarra/blob/main/img/banner2.png)
+![Cover](https://github.com/aureliasegarra/aureliasegarra/blob/main/banner3.png)
 
 ## I’m a junior FullStack Developer
 
