@@ -4,9 +4,9 @@
 
 ## I’m a junior FullStack Developer
 
-* :building_construction:   I'm currently developing Javascript applications (Angular, React)
-* :seedling:    I'm currently learning Spring Boot
-* :briefcase:   I'm looking for a job in Bretagne 
+* :building_construction:   I'm currently developing Javascript applications (Angular, React, Vue)
+* :seedling:    I'm currently learning Software testing
+* :briefcase:   I am looking for a testing position starting in September 2023 
 * :speech_balloon:    A question or a comment ? <a href="mailto:aureliasegarra@protonmail.com">here</a>
 
 
@@ -47,13 +47,7 @@
  
   <a href="https://www.linkedin.com/in/aureliasegarra/">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/social/linkedin.svg" alt="example badge" style="vertical-align:top margin:6px 10px">
-</a> 
-
- <a href="mailto:av.segarra@gmail.com">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/social/gmail.svg" alt="example badge" style="vertical-align:top margin:6px 10px">
-</a> 
-
- 
+</a>  
 
  
 </p>
