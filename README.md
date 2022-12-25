@@ -19,6 +19,9 @@
  <a href="#">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/java.svg" alt="example badge" style="vertical-align:top margin:6px 10px">
 </a> 
+ <a href="#">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/languages/python.svg" alt="example badge" style="vertical-align:top margin:6px 10px">
+</a> 
 <a href="#">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/frameworks/nodejs.svg" alt="example badge" style="vertical-align:top margin:6px 10px">
 </a> 
@@ -34,6 +37,7 @@
   <a href="https://www.linkedin.com/in/aureliasegarra/">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/social/linkedin.svg" alt="example badge" style="vertical-align:top margin:6px 10px">
 </a>  
+ 
 
  
 </p>
