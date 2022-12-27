@@ -1,8 +1,6 @@
-### Hi there 👋, I’m Aurelia !
+<h1 align="center"> Hi there 👋, I’m Aurelia ! </h1>
 
-![Cover](https://github.com/aureliasegarra/aureliasegarra/blob/main/banner3.png)
-
-## I’m a junior FullStack Developer
+<h2 align="center">Software Tester & Developer enthusiast </h2>
 
 * :building_construction:   I'm currently developing Javascript applications 
 * :woman_student:   I'm currently finishing my bachelor in Computer Science 
