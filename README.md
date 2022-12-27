@@ -48,7 +48,7 @@
 ![Aurelia's GitHub stats](https://github-readme-stats.vercel.app/api?username=aureliasegarra&theme=tokyonight&show_icons=true&hide=contribs)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aureliasegarra&theme=tokyonight&layout=compact)](https://github.com/aureliasegarra/github-readme-stats)
 </details>
 
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aureliasegarra" alt="aureliasegarra" /></a> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aureliasegarra&label=Profile%20views&color=0e75b6&style=flat" alt="aureliasegarra" /> </p>
 
