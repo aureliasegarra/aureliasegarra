@@ -1,6 +1,8 @@
 <h1 align="center"> Hi there 👋, I’m Aurelia ! </h1>
 
-<h2 align="center">Software Tester & Developer enthusiast </h2>
+<h3 align="center">Software Tester & Developer enthusiast </h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aureliasegarra&label=Profile%20views&color=0e75b6&style=flat" alt="aureliasegarra" /> </p>
 
 * :building_construction:   I'm currently developing Javascript applications 
 * :woman_student:   I'm currently finishing my bachelor in Computer Science 
@@ -48,7 +50,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aureliasegarra" alt="aureliasegarra" /></a> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aureliasegarra&label=Profile%20views&color=0e75b6&style=flat" alt="aureliasegarra" /> </p>
+
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
