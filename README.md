@@ -50,7 +50,7 @@
 
 
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aureliasegarra&label=Profile%20views&color=0e75b6&style=flat" alt="aureliasegarra" /> </p>
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
