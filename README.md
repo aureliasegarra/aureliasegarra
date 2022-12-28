@@ -1,6 +1,10 @@
 <h1 align="center"> Hi there 👋, I’m Aurelia ! </h1>
 
-<h3 align="center">Software Tester & Developer enthusiast </h3>
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Software%20Tester%20;Developer%20%20Enthusiast;LifeLong%20learner;Passionately%20Curious;LifeLong%20learner&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aureliasegarra&label=Profile%20views&color=0e75b6&style=flat" alt="aureliasegarra" /> </p>
 
