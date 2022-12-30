@@ -34,7 +34,7 @@
  
 ## Roadmap 2023
 * Improve Cypress
-* API Testing
+* Improve API Testing
 * Discover Appium
  
 
