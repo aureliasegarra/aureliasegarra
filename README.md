@@ -32,6 +32,10 @@
  
 </p>
  
+## Roadmap 2023
+* Improve Cypress
+* API Testing
+* Discover Appium
  
 
 ##  Contact me  
