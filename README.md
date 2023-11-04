@@ -31,9 +31,9 @@
 </p>
  
 ## Roadmap 2024
-* Improve Playwright
-* Improve API Testing
-* Discover TestComplete
+* Playwright
+* API Testing
+* TestComplete
  
 
 ##  Contact me  
