@@ -8,10 +8,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aureliasegarra&label=Profile%20views&color=0e75b6&style=flat" alt="aureliasegarra" /> </p>
 
-* :building_construction:   I'm currently developing Javascript applications 
-* :woman_student:   I'm currently finishing my bachelor in Computer Science 
-* :books:    I'm currently learning Software testing (Automation - Cypress)
-* :briefcase:   I am looking for a testing position starting in September 2023 
+* :books:    I'm currently improving Software testing skills (Web Automation - Cypress - Playwright - Selenium)
+* :building_construction:   I love playing with Javascript 
 * :speech_balloon:    A question or a comment ? <a href="mailto:aureliasegarra@protonmail.com">here</a>
 
 
@@ -32,10 +30,10 @@
  
 </p>
  
-## Roadmap 2023
-* Improve Cypress
+## Roadmap 2024
+* Improve Playwright
 * Improve API Testing
-* Discover Appium
+* Discover TestComplete
  
 
 ##  Contact me  
